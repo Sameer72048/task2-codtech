@@ -1,5 +1,3 @@
-# task2-codtech
-
 Report on the Simple Blog Application HTML Code
 Overview
 The provided HTML code outlines a simple blog application that allows users to view, create, and edit blog posts. The application is styled using Tailwind CSS, which provides a modern and responsive design. The layout is structured to facilitate easy navigation and interaction, making it user-friendly.
